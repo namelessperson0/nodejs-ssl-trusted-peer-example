@@ -33,7 +33,7 @@ example
 ### Get the repo
 
 ```bash
-git clone git@github.com:coolaj86/nodejs-ssl-trusted-peer-example.git
+git clone https://github.com/coolaj86/nodejs-ssl-trusted-peer-example.git
 pushd nodejs-ssl-trusted-peer-example
 npm install
 ```
